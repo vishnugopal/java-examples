@@ -1,0 +1,19 @@
+
+
+Just a small series of java examples that I tried out when learning Java from 
+http://java.sun.com/docs/books/tutorial/java/nutsandbolts/
+
+To compile any of this:
+
+javac <AppName>App.java
+
+and then to run:
+
+java <AppName>App (omit the ".class")
+
+
+--
+
+This is hereby put in the Public Domain. Do what you will.
+
+Vishnu Gopal. May 2009.
